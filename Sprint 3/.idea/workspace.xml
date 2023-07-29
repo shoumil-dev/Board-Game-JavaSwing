@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Sprint2:jar3" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d397243-de5b-49f8-9427-7008dcc5800c" name="Changes" comment="repository cleanup and management">
+      <change afterPath="$PROJECT_DIR$/../Archives (previous sprints)/Sprint 3/9MM_DevDynasty 11.35.41 PM.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archives (previous sprints)/Sprint 3/Initialisation Seq Diagram.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archives (previous sprints)/Sprint 3/Move Validation &amp; Checks Handling Seq Diagram.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archives (previous sprints)/Sprint 3/Rationale_MA_Friday2pm_Team1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archives (previous sprints)/Sprint 3/Removeable State Seq Diagram.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archives (previous sprints)/Sprint 3/Sliding Move Seq Diagram.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archives (previous sprints)/Sprint 3/UpdateStateOfMove Seq Diagram.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archives (previous sprints)/Sprint 3/Video_MA_Friday2pm_Team1 11.35.41 PM.mov" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/.idea/artifacts/Sprint2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/.idea/artifacts/Sprint2_jar2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/.idea/artifacts/Sprint2_jar3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/9MM_DevDynasty.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/Design Docs/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/Design Docs/GameScreenshots_MA_Friday2pm_Team1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/Design Docs/MA_Friday2pm_Team1-GroupDeliverables.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/Design Docs/MA_Friday2pm_team1-DemoVideoLink.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/Design Docs/UML-Class-Diagram.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/Sprint2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/resources/coin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/resources/gamepage.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/resources/homepage.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/Code Files.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/game/ApplicationDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/game/ComputerPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/game/CurrentStateofMove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/game/FlyingMove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/game/GameBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/game/IntersectionPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/game/MainPagePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/game/MainWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/game/MillChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/game/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/game/NeighbourPositionFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/game/PerformThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/game/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/game/RemoveMove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/game/SlidingMove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/game/Token.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sprint 4/src/game/TokenRemoval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Link_to_Demonstration_Video.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="rachit" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="rachit" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2P30nNsHjsueXgnadXQwugVnSF9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.ApplicationDriver">
+    <configuration name="ApplicationDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.ApplicationDriver" />
+      <module name="Sprint2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.test" />
+      <module name="Sprint2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="9MM_DevDynasty" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Sprint2_jar/Sprint2.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Sprint2:jar" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="9MM_test" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Sprint2_jar2/Sprint2.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sprint4" type="JarApplication">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Sprint2:jar2" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Sprint4_Final" type="JarApplication">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Sprint2_jar3/Sprint2.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Sprint2:jar3" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Unnamed (1)" type="JarApplication" nameIsGenerated="true">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Sprint2_jar3/Sprint2.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-17" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed (2)" type="JarApplication" nameIsGenerated="true">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Sprint2_jar/Sprint2.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Sprint2:jar" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Sprint2_jar2/Sprint2.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JarApplication">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ApplicationDriver" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="JAR Application.Unnamed (2)" />
+      <item itemvalue="JAR Application.Sprint4" />
+      <item itemvalue="JAR Application.Sprint4_Final" />
+      <item itemvalue="JAR Application.9MM_DevDynasty" />
+      <item itemvalue="JAR Application.9MM_test" />
+      <item itemvalue="JAR Application.Unnamed" />
+      <item itemvalue="JAR Application.Unnamed (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApplicationDriver" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.ApplicationDriver" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d397243-de5b-49f8-9427-7008dcc5800c" name="Changes" comment="" />
+      <created>1682670626351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682670626351</updated>
+    </task>
+    <task id="LOCAL-00002" summary="using neighbourpointfinder to repaint neighbour positions to black border">
+      <created>1683520446740</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683520446740</updated>
+    </task>
+    <task id="LOCAL-00003" summary="made pointSelect boolean to private and created a setter method">
+      <created>1683520811313</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683520811313</updated>
+    </task>
+    <task id="LOCAL-00004" summary="updated uml with new attribute additions">
+      <created>1683521240588</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683521240588</updated>
+    </task>
+    <task id="LOCAL-00005" summary="enabled green highlight of positions when token is selected">
+      <created>1683523248358</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683523248358</updated>
+    </task>
+    <task id="LOCAL-00006" summary="changed structural implementation of NeighbourPointFinder interface">
+      <created>1683523282170</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683523282170</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added function to highlight tokens when a mill is formed">
+      <created>1683801550877</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683801550877</updated>
+    </task>
+    <task id="LOCAL-00008" summary="changed turn conditions to strictly follow tokens remaining">
+      <created>1683913964207</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683913964207</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added RemoveMove enum item">
+      <created>1683914003051</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683914003051</updated>
+    </task>
+    <task id="LOCAL-00010" summary="changed move listener from Move to MouseAdapter type">
+      <created>1683914115809</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683914115809</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added functionality to enable removal state of tokens">
+      <created>1683944657036</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1683944657036</updated>
+    </task>
+    <task id="LOCAL-00012" summary="shifted change state function to MillChecker and implemented actions to remove token">
+      <created>1683947971491</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1683947971491</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added state changes for when player is in removing state">
+      <created>1683948015613</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1683948015613</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added functionality to only enable removal of tokens not in mill">
+      <created>1683972553019</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1683972553019</updated>
+    </task>
+    <task id="LOCAL-00015" summary="using getter and setter for CurrentStateOfMove">
+      <created>1683972649808</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1683972649809</updated>
+    </task>
+    <task id="LOCAL-00016" summary="added functionality to remove tokens from mills if no other token is present">
+      <created>1683999619805</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1683999619805</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added functionality to remove tokens from mills if no other token is present">
+      <created>1683999674917</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1683999674917</updated>
+    </task>
+    <task id="LOCAL-00018" summary="converted MainWindow into static class">
+      <created>1684035853528</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1684035853528</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added additional component highlight features to enhance UI">
+      <created>1684042189977</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1684042189977</updated>
+    </task>
+    <task id="LOCAL-00020" summary="fixed error of tokens outside of board being removable">
+      <created>1684061154875</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1684061154875</updated>
+    </task>
+    <task id="LOCAL-00021" summary="created home page UI">
+      <created>1684087335126</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1684087335126</updated>
+    </task>
+    <task id="LOCAL-00022" summary="shifted thread class into separate file">
+      <created>1684134472235</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1684134472235</updated>
+    </task>
+    <task id="LOCAL-00023" summary="changed sequences after adding home page and backgeound thread">
+      <created>1684134588482</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1684134588482</updated>
+    </task>
+    <task id="LOCAL-00024" summary="fixed errors related to double mill formation">
+      <created>1684252019407</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1684252019408</updated>
+    </task>
+    <task id="LOCAL-00025" summary="changed background and some colours">
+      <created>1684258576284</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1684258576284</updated>
+    </task>
+    <task id="LOCAL-00026" summary="added sequence diagram for all sequences of a mouseReleased action">
+      <created>1684306598376</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1684306598376</updated>
+    </task>
+    <task id="LOCAL-00027" summary="testing blurred background">
+      <created>1684343383013</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1684343383013</updated>
+    </task>
+    <task id="LOCAL-00028" summary="testing new ancient theme backgrounds">
+      <created>1684376305426</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1684376305426</updated>
+    </task>
+    <task id="LOCAL-00029" summary="changed button font and title font preferences">
+      <created>1684379166599</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1684379166599</updated>
+    </task>
+    <task id="LOCAL-00030" summary="wrote rationales for additional changes to design and for NFR extensibility">
+      <created>1684425657297</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1684425657297</updated>
+    </task>
+    <task id="LOCAL-00031" summary="created resources folder for jar packaging">
+      <created>1684474656216</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1684474656216</updated>
+    </task>
+    <task id="LOCAL-00032" summary="setup for jar packaging">
+      <created>1684474793279</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1684474793279</updated>
+    </task>
+    <task id="LOCAL-00033" summary="updated state of repo">
+      <created>1684483915709</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1684483915709</updated>
+    </task>
+    <task id="LOCAL-00034" summary="added instructions for builidng jar file">
+      <created>1684506925150</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1684506925150</updated>
+    </task>
+    <task id="LOCAL-00035" summary="added all artefacts">
+      <created>1684508966743</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1684508966744</updated>
+    </task>
+    <task id="LOCAL-00036" summary="fixed incorrect display of 2 buttons">
+      <created>1685272283172</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1685272283172</updated>
+    </task>
+    <task id="LOCAL-00037" summary="added mill formation and token removal for cpu player">
+      <created>1685290446202</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1685290446202</updated>
+    </task>
+    <task id="LOCAL-00038" summary="changed the code ordering of border display on player label">
+      <created>1685295065189</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1685295065189</updated>
+    </task>
+    <task id="LOCAL-00039" summary="added time delay &amp; converted removal of token into static function to increase reusability">
+      <created>1685295640375</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1685295640375</updated>
+    </task>
+    <task id="LOCAL-00040" summary="updated design architecture with new token removal interface">
+      <created>1685765920621</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1685765920621</updated>
+    </task>
+    <task id="LOCAL-00041" summary="testing restart function">
+      <created>1686130634228</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1686130634229</updated>
+    </task>
+    <task id="LOCAL-00042" summary="minor cleanups">
+      <created>1686142586785</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1686142586785</updated>
+    </task>
+    <task id="LOCAL-00043" summary="modified colours and text labels">
+      <created>1686153231044</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1686153231044</updated>
+    </task>
+    <task id="LOCAL-00044" summary="fixed token removal error on cpu mill formation and updated uml">
+      <created>1686160070899</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1686160070899</updated>
+    </task>
+    <task id="LOCAL-00045" summary="added return button to return to home page">
+      <created>1686189351936</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1686189351936</updated>
+    </task>
+    <task id="LOCAL-00046" summary="minor updates to functions and removed test code">
+      <created>1686224016353</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1686224016353</updated>
+    </task>
+    <task id="LOCAL-00047" summary="wrote rationale for changes in architecture and combined with revised user stories">
+      <created>1686233590983</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1686233590983</updated>
+    </task>
+    <task id="LOCAL-00048" summary="added conditional statement for dialog message">
+      <created>1686238280672</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1686238280672</updated>
+    </task>
+    <task id="LOCAL-00049" summary="repository cleanup and management">
+      <created>1686239888540</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1686239888540</updated>
+    </task>
+    <task id="LOCAL-00050" summary="repository cleanup and management">
+      <created>1686240238382</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1686240238385</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changed background and some colours" />
+    <MESSAGE value="added sequence diagram for all sequences of a mouseReleased action" />
+    <MESSAGE value="testing blurred background" />
+    <MESSAGE value="testing new ancient theme backgrounds" />
+    <MESSAGE value="changed button font and title font preferences" />
+    <MESSAGE value="wrote rationales for additional changes to design and for NFR extensibility" />
+    <MESSAGE value="created resources folder for jar packaging" />
+    <MESSAGE value="setup for jar packaging" />
+    <MESSAGE value="updated state of repo" />
+    <MESSAGE value="added instructions for builidng jar file" />
+    <MESSAGE value="added all artefacts" />
+    <MESSAGE value="fixed incorrect display of 2 buttons" />
+    <MESSAGE value="added mill formation and token removal for cpu player" />
+    <MESSAGE value="changed the code ordering of border display on player label" />
+    <MESSAGE value="added time delay &amp; converted removal of token into static function to increase reusability" />
+    <MESSAGE value="updated design architecture with new token removal interface" />
+    <MESSAGE value="testing restart function" />
+    <MESSAGE value="minor cleanups" />
+    <MESSAGE value="modified colours and text labels" />
+    <MESSAGE value="fixed token removal error on cpu mill formation and updated uml" />
+    <MESSAGE value="added return button to return to home page" />
+    <MESSAGE value="minor updates to functions and removed test code" />
+    <MESSAGE value="wrote rationale for changes in architecture and combined with revised user stories" />
+    <MESSAGE value="added conditional statement for dialog message" />
+    <MESSAGE value="repository cleanup and management" />
+    <option name="LAST_COMMIT_MESSAGE" value="repository cleanup and management" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/game/Token.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
